@@ -8,7 +8,7 @@ public class PrimeiroPrograma {
 		
 		String black = null;
 		String blue = null;
-		Gato gato = new Gato(blue, white, 3);
+		Gato gato = new Gato(blue, gray, 3);
 		
 		Livro livro = new Livro();
 		System.out.println(gato);
